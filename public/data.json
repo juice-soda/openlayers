@@ -1,0 +1,9 @@
+{
+  "vectorSourceURL": "http://t4.tianditu.com/DataServer?T=vec_w&tk=4bd3ecd8ceadf243ac0d7a85938e007e&x={x}&y={y}&l={z}",
+  "rasterSourceURL": "http://t4.tianditu.com/DataServer?T=img_w&tk=849e530d8923d355438d3e40b0b09782&x={x}&y={y}&l={z}",
+  "markSource1URL": "http://t4.tianditu.com/DataServer?T=cva_w&tk=849e530d8923d355438d3e40b0b09782&x={x}&y={y}&l={z}",
+  "markSource2URL": "http://t4.tianditu.com/DataServer?T=cia_w&tk=849e530d8923d355438d3e40b0b09782&x={x}&y={y}&l={z}",
+  "arcgisLayerURL": "http://39.101.177.202:16080/arcgis/rest/services/JH/JHSD/MapServer",
+  "legendURL": "http://39.101.177.202:16080/arcgis/rest/services/JH/JHSD/MapServer/3/legend?f=json",
+  "labelsURL": "http://39.101.177.202:16080/arcgis/rest/services/JH/JHSD/MapServer/3/query?where=1%3D1&outFields=pqmc&f=json" 
+}
